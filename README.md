@@ -1,1 +1,1 @@
-https://www.tutorialspoint.com/design_pattern/template_pattern.htm
+https://www.geeksforgeeks.org/template-method-design-pattern/
